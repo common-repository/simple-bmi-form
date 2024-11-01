@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple BMI Form\n"
+"POT-Creation-Date: 2020-09-03 10:51+0100\n"
+"PO-Revision-Date: 2020-09-03 10:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-bmi-form.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/form.php:18
+msgid "A BMI calculator"
+msgstr "Una calculadora de IMC"
+
+#: includes/form.php:35
+msgid "BMI Calculator"
+msgstr "¿Es fiable el BMI?"
+
+#: includes/form.php:38
+msgid "Title:"
+msgstr "Titulo:"
+
+#: includes/form.php:59
+msgid "Valid for age 20 or older."
+msgstr "Válido para mayores de 20 años."
+
+#: includes/form.php:62
+msgid "Set units:"
+msgstr "Establecer unidades"
+
+#: includes/form.php:63 includes/settings.php:154
+msgid "Imperial"
+msgstr "Inglés"
+
+#: includes/form.php:64 includes/settings.php:155
+msgid "Metric"
+msgstr "Métrico"
+
+#: includes/form.php:65 includes/settings.php:156
+msgid "US"
+msgstr "US"
+
+#: includes/form.php:69
+msgid "Your weight:"
+msgstr "Su peso:"
+
+#: includes/form.php:74
+msgid "Your height:"
+msgstr "Altura:"
+
+#: includes/form.php:80
+msgid "Calculate"
+msgstr "Calcular"
+
+#: includes/form.php:86
+msgid "Find out more on"
+msgstr "Infórmate sobre:"
+
+#: includes/settings.php:21
+msgid "You do not have permission to access this page."
+msgstr "No tienes permiso para entrar a esta página."
+
+#: includes/settings.php:24
+msgid "Simple BMI Calculator"
+msgstr "Calculadora de IMC simple"
+
+#: includes/settings.php:42
+msgid "BMI Form"
+msgstr "Formulario de IMC"
+
+#: includes/settings.php:52
+msgid "General"
+msgstr "General"
+
+#: includes/settings.php:61
+msgid "Default units"
+msgstr "Unidades predeterminadas"
+
+#: includes/settings.php:74
+msgid "Font size"
+msgstr "Tamaño de fuente"
+
+#: includes/settings.php:76
+msgid "The font size in pixels. Must be between 6 and 60. The default is 14."
+msgstr ""
+"El tamaño de fuente en píxeles. Debe estar entre 6 y 60. El valor "
+"predeterminado es 14."
+
+#: includes/settings.php:87 includes/settings.php:89
+msgid "Background colour"
+msgstr "Color de fondo"
+
+#: includes/settings.php:100
+msgid "Border width"
+msgstr "Ancho de borde"
+
+#: includes/settings.php:102
+msgid "The border width in pixels. Must be between 0 and 20. The default is 2."
+msgstr ""
+"El ancho del borde en píxeles. Debe estar entre 0 y 20. El valor "
+"predeterminado es 2."
+
+#: includes/settings.php:113 includes/settings.php:115
+msgid "Border colour"
+msgstr "Color de borde"
+
+#: includes/settings.php:126
+msgid "Wikipedia link"
+msgstr "Enlace Wikipedia"
+
+#: includes/settings.php:189
+msgid "Don't show the Wikipedia link"
+msgstr "No mostrar el enlace de Wikipedia"
+
+#: includes/settings.php:190
+msgid "Show the Wikipedia link"
+msgstr "Mostrar el enlace de Wikipedia"
+
+#: simple-bmi-form.php:46
+msgid "stones"
+msgstr "piedras"
+
+#: simple-bmi-form.php:47
+msgid "pounds"
+msgstr "libras"
+
+#: simple-bmi-form.php:48
+msgid "feet"
+msgstr "pies"
+
+#: simple-bmi-form.php:49
+msgid "inches"
+msgstr "pulgadas"
+
+#: simple-bmi-form.php:50
+msgid "kilograms"
+msgstr "kilogramos"
+
+#: simple-bmi-form.php:51
+msgid "metres"
+msgstr "metros"
+
+#: simple-bmi-form.php:52
+msgid "You are \"Very severely underweight.\""
+msgstr "Tiene \"muy bajo peso\"."
+
+#: simple-bmi-form.php:53
+msgid "You are \"Severely underweight.\""
+msgstr "Usted está \"severamente bajo de peso\""
+
+#: simple-bmi-form.php:54
+msgid "You are \"Underweight.\""
+msgstr "Estás por debajo del peso recomendado."
+
+#: simple-bmi-form.php:55
+msgid "Your weight is \"Normal.\""
+msgstr "Su peso es \"normal\""
+
+#: simple-bmi-form.php:56
+msgid "You are \"Overweight.\""
+msgstr "tienes sobrepeso."
+
+#: simple-bmi-form.php:57
+msgid "You are \"Obese Class I.\""
+msgstr "Eres \"Obeso Clase I\""
+
+#: simple-bmi-form.php:58
+msgid "You are \"Obese Class II.\""
+msgstr "Eres \"Obeso Clase II\""
+
+#: simple-bmi-form.php:59
+msgid "You are \"Obese Class III.\""
+msgstr "Eres \"Obeso Clase III\""
+
+#: simple-bmi-form.php:60
+msgid "Enter a value for stones."
+msgstr "Ingrese un valor para piedras"
+
+#: simple-bmi-form.php:61
+msgid "Pounds must be less than 14."
+msgstr "Las libras deben ser menos de 14."
+
+#: simple-bmi-form.php:62
+msgid "Enter a value for pounds."
+msgstr "Ingrese un valor para libras."
+
+#: simple-bmi-form.php:63
+msgid "Pounds must at least 80."
+msgstr "Las libras deben ser de al menos 80."
+
+#: simple-bmi-form.php:64
+msgid "Enter a value for feet."
+msgstr "Ingrese un valor para pies."
+
+#: simple-bmi-form.php:65
+msgid "Feet must be greater than 3."
+msgstr "Los pies deben ser mayores que 3."
+
+#: simple-bmi-form.php:66
+msgid "Feet must be less than 8."
+msgstr "Los pies deben ser menos de 8."
+
+#: simple-bmi-form.php:67
+msgid "Inches must not be negative."
+msgstr "Las pulgadas no deben ser negativas."
+
+#: simple-bmi-form.php:68
+msgid "Inches must be less than 12."
+msgstr "Las pulgadas deben ser inferiores a 12."
+
+#: simple-bmi-form.php:69
+msgid "Enter a value for kilograms."
+msgstr "Ingrese un valor para kilogramos."
+
+#: simple-bmi-form.php:70
+msgid "Kilograms must not be less than 35."
+msgstr "Los kilogramos no deben ser inferiores a 35."
+
+#: simple-bmi-form.php:71
+msgid "Enter a value for metres."
+msgstr "Ingrese un valor para metros."
+
+#: simple-bmi-form.php:72
+msgid "Metres must be greater than 0.9."
+msgstr "Los medidores deben ser mayores que 0.9."
+
+#: simple-bmi-form.php:73
+msgid "Metres must be less than 2.4."
+msgstr "Los medidores deben ser inferiores a 2.4."
+
+#: simple-bmi-form.php:74
+msgid "Your BMI is"
+msgstr "Su IMC es"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple BMI Form"
+msgstr "Formulario de IMC simple"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.topcode.co.uk/developments/simple-bmi-form/"
+msgstr "http://www.topcode.co.uk/developments/simple-bmi-form/"
+
+#. Description of the plugin/theme
+msgid ""
+"Simple BMI calculator form. The visitor may select Imperial, US or Metric "
+"units."
+msgstr ""
+"Formulario de calculadora de IMC simple. El visitante puede seleccionar "
+"unidades imperiales, estadounidenses o métricas."
+
+#. Author of the plugin/theme
+msgid "lorro"
+msgstr "lorro"
+
+#. Author URI of the plugin/theme
+msgid "http://www.topcode.co.uk/"
+msgstr "http://www.topcode.co.uk/"
+
+#~ msgid ""
+#~ "This stylesheet will be overwritten by any Simple BMI Form settings "
+#~ "changes."
+#~ msgstr ""
+#~ "Esta hoja de estilo se sobrescribirá con cualquier cambio en la "
+#~ "configuración del formulario de IMC simple."
+
+#~ msgid "Pounds must not be negative."
+#~ msgstr "Las libras no deben ser negativas."
+
+#~ msgid "Feet must not be negative."
+#~ msgstr "Los pies no deben ser negativos."
+
+#~ msgid "Kilograms must not be negative."
+#~ msgstr "Los kilogramos no deben ser negativos."
+
+#~ msgid "Metres must not be negative."
+#~ msgstr "Los medidores no deben ser negativos."
+
+#~ msgid "You are \"Severely underweight\""
+#~ msgstr "Usted está \"severamente bajo de peso\""
+
+#~ msgid "You are \"Underweight\""
+#~ msgstr "Estás por debajo del peso recomendado."
+
+#~ msgid "Your weight is \"Normal\""
+#~ msgstr "Su peso es \"normal\""
+
+#~ msgid "You are \"Overweight\""
+#~ msgstr "Tienes sobrepeso\""
+
+#~ msgid "You are \"Obese Class I\""
+#~ msgstr "Eres \"Obeso Clase I\""
+
+#~ msgid "You are \"Obese Class II\""
+#~ msgstr "Eres \"Obeso Clase II\""
+
+#~ msgid "You are \"Obese Class III\""
+#~ msgstr "Eres \"Obeso Clase III\""
+
+#~ msgid "Enter a value for stones"
+#~ msgstr "Ingrese un valor para piedras"

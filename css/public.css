@@ -1,0 +1,42 @@
+/* Simple BMI Form */
+/* TopCode Website Services */
+
+.sbf_form .sbf_help {
+  color: DarkGreen;
+  font-style: italic;
+}
+.sbf_form .sbf_error {
+  color: Red;
+  font-style: italic;
+}
+
+.sbf_form {
+  width: 260px;
+  max-width: 100%;
+}
+.sbf_form_inner {
+  padding: 0 8px;
+  background-color: inherit;
+}
+.sbf_form div {
+  margin: 12px 0;
+}
+.sbf_form .sbf_button {
+  margin-right: 4px;
+  padding: 4px 6px;
+  font-size: 14px;
+  color: #000;
+  background-color: #ddd;
+  border: 1px solid #888;
+  border-radius: 4px;
+  outline-color: rgba(0, 0, 0, 0);
+}
+.sbf_form .sbf_button.selected {
+  color: #fff;
+  background-color: #268A26; /* 15% lighter */
+  border: 2px solid #006400; /* DarkGreen */
+ }
+.sbf_form input[type="text"] {
+  padding: 2px 4px;
+  width: 52px;
+}
